@@ -1,33 +1,16 @@
-# ✦ Shine Forever
+# ☾ Para Vitória — Minha Lua
 
-A tiny animated celestial scene for your terminal, made with Python. A glowing moon and sun take turns beneath a twinkling sky, with a little reminder to keep shining.
+Uma experiência romântica com lua brilhante, estrelas animadas, reflexo no mar, estrelas cadentes e mensagens que mudam.
 
-## Preview
+## Abrir
+Abra `index.html` no navegador. Não precisa instalar nada.
 
-The terminal displays a starry sky, an animated moon/sun, and the phrase **SHINE FOREVER**.
+## Publicar no GitHub Pages
+1. Crie um repositório chamado `para-vitoria`.
+2. Envie `index.html` e `README.md`.
+3. Vá em **Settings → Pages**.
+4. Em **Build and deployment**, escolha **Deploy from a branch**.
+5. Selecione `main` e `/ (root)` e clique em **Save**.
+6. Aguarde o link do site aparecer na seção Pages.
 
-## Run it
-
-Requires Python 3.9+ and no external packages.
-
-```bash
-python main.py
-```
-
-Stop the animation with `Ctrl+C`.
-
-## GitHub
-
-1. Create a new repository on GitHub named `shine-forever`.
-2. Upload `main.py` and `README.md`, or push this folder with Git:
-
-```bash
-git init
-git add main.py README.md
-git commit -m "Create Shine Forever terminal animation"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/shine-forever.git
-git push -u origin main
-```
-
-Made with Python ✨
+Feito com carinho. ☾
