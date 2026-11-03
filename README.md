@@ -1,20 +1,13 @@
-# Uma lua para Vitória 🌙
+# O céu guardou um segredo — Vitória 🌙
 
-Uma página simples, responsiva e interativa feita com HTML, CSS e JavaScript puro.
+Página interativa em HTML, CSS e JavaScript puro: céu estrelado, lua pixelada clicável, nuvens em movimento, brilhos rosados e mensagens aleatórias.
 
-## Como abrir no computador
-1. Baixe ou extraia este projeto.
-2. Abra `index.html` no navegador.
-
-## Como publicar no GitHub Pages
-1. Entre no GitHub e crie um repositório público, por exemplo `lua-para-vitoria`.
-2. Envie o arquivo `index.html` (e este README, se quiser) para a raiz do repositório.
-3. No repositório, abra **Settings → Pages**.
+## Publicar no GitHub Pages
+1. Crie um repositório público no GitHub.
+2. Envie `index.html` para a raiz do repositório.
+3. Acesse **Settings → Pages**.
 4. Em **Build and deployment**, escolha **Deploy from a branch**.
-5. Selecione a branch `main` e a pasta `/(root)`, depois clique em **Save**.
-6. Aguarde alguns instantes. O GitHub mostrará o endereço público da página na própria seção Pages.
+5. Selecione `main` e `/(root)` e salve.
 
-## Personalizar as mensagens
-Abra `index.html` e procure `const messages = [...]`. Edite os textos entre aspas, mantendo as vírgulas entre as frases.
-
-Não precisa instalar nada nem usar terminal: é só HTML, CSS e JavaScript.
+## Personalizar
+Edite o array `notes` no final de `index.html` para trocar as mensagens.
