@@ -1,12 +1,6 @@
-VERSÃO CORRIGIDA — IMAGEM EMBUTIDA NO HTML
+ATUALIZAÇÃO DA IMAGEM — VITÓRIA
 
-A imagem exata enviada na última mensagem está incorporada no index.html.
-Não há pasta de imagens nem dependência de arquivo externo.
-
-No GitHub:
-1. Abra o repositório.
-2. Substitua o index.html antigo por este novo index.html (ou envie este ZIP e extraia localmente).
-3. Confirme que index.html está na raiz do repositório.
-4. Em Settings > Pages, publique a branch main usando / (root).
-
-O site mantém as animações discretas e o botão para a música do Elvis.
+Este pacote contém o index.html e a nova cena-vitoria.jpg na mesma pasta.
+No GitHub, envie/substitua os DOIS arquivos na raiz do repositório.
+O nome cena-vitoria.jpg foi mantido para corresponder ao caminho usado no HTML.
+Depois, atualize o site com Ctrl + F5.
