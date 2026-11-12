@@ -1,22 +1,12 @@
-VERSÃO DE ARQUIVO ÚNICO PARA GITHUB PAGES
+VERSÃO CORRIGIDA — IMAGEM EMBUTIDA NO HTML
 
-Este projeto tem somente um arquivo necessário: index.html.
-A imagem está embutida dentro do próprio HTML (base64), então não existe pasta assets nem imagem externa para o GitHub perder.
+A imagem exata enviada na última mensagem está incorporada no index.html.
+Não há pasta de imagens nem dependência de arquivo externo.
 
-PUBLICAR:
-1. Crie/abra seu repositório no GitHub.
-2. Envie o index.html para a raiz do repositório.
-3. Abra Settings > Pages.
-4. Em Build and deployment, selecione Deploy from a branch.
-5. Escolha a branch main e a pasta / (root), depois salve.
+No GitHub:
+1. Abra o repositório.
+2. Substitua o index.html antigo por este novo index.html (ou envie este ZIP e extraia localmente).
+3. Confirme que index.html está na raiz do repositório.
+4. Em Settings > Pages, publique a branch main usando / (root).
 
-ANIMAÇÃO:
-- estrelas piscando lentamente;
-- pequenos pontos de luz flutuando;
-- brilho lunar suave;
-- reflexo de água e movimento sutil de câmera.
-O movimento respeita a preferência do dispositivo por reduzir animações.
-
-MÚSICA:
-O botão abre "Can't Help Falling In Love", de Elvis Presley, no YouTube.
-Não é possível prometer ausência de anúncios em um link/player do YouTube. Anúncios dependem da plataforma, região, conta e navegador. Para reprodução garantidamente sem anúncios, é necessário um serviço/plano que ofereça isso; não posso remover anúncios nem redistribuir a gravação comercial.
+O site mantém as animações discretas e o botão para a música do Elvis.
