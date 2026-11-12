@@ -1,14 +1,22 @@
-PÁGINA PARA O GITHUB PAGES
+VERSÃO DE ARQUIVO ÚNICO PARA GITHUB PAGES
 
-1. Crie um repositório no GitHub (pode ser público) com um nome como "para-vitoria".
-2. Extraia este ZIP.
-3. Envie index.html, a pasta assets e LEIA-ME.txt para a raiz do repositório.
-4. No GitHub, abra Settings > Pages.
-5. Em Build and deployment, escolha "Deploy from a branch".
-6. Selecione a branch "main" e a pasta "/ (root)" e salve.
-7. Aguarde o GitHub publicar o site. O endereço aparecerá na seção Pages.
+Este projeto tem somente um arquivo necessário: index.html.
+A imagem está embutida dentro do próprio HTML (base64), então não existe pasta assets nem imagem externa para o GitHub perder.
 
-A música usa o player oficial do YouTube para "Can't Help Falling In Love", de Elvis Presley.
-Por isso, a Vitória precisará tocar no player para iniciar a reprodução; navegadores normalmente bloqueiam autoplay com som.
+PUBLICAR:
+1. Crie/abra seu repositório no GitHub.
+2. Envie o index.html para a raiz do repositório.
+3. Abra Settings > Pages.
+4. Em Build and deployment, selecione Deploy from a branch.
+5. Escolha a branch main e a pasta / (root), depois salve.
 
-A animação é propositalmente discreta: estrelas piscando devagar, brilho suave no lago e movimento sutil na imagem.
+ANIMAÇÃO:
+- estrelas piscando lentamente;
+- pequenos pontos de luz flutuando;
+- brilho lunar suave;
+- reflexo de água e movimento sutil de câmera.
+O movimento respeita a preferência do dispositivo por reduzir animações.
+
+MÚSICA:
+O botão abre "Can't Help Falling In Love", de Elvis Presley, no YouTube.
+Não é possível prometer ausência de anúncios em um link/player do YouTube. Anúncios dependem da plataforma, região, conta e navegador. Para reprodução garantidamente sem anúncios, é necessário um serviço/plano que ofereça isso; não posso remover anúncios nem redistribuir a gravação comercial.
