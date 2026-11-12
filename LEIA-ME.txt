@@ -1,0 +1,14 @@
+PÁGINA PARA O GITHUB PAGES
+
+1. Crie um repositório no GitHub (pode ser público) com um nome como "para-vitoria".
+2. Extraia este ZIP.
+3. Envie index.html, a pasta assets e LEIA-ME.txt para a raiz do repositório.
+4. No GitHub, abra Settings > Pages.
+5. Em Build and deployment, escolha "Deploy from a branch".
+6. Selecione a branch "main" e a pasta "/ (root)" e salve.
+7. Aguarde o GitHub publicar o site. O endereço aparecerá na seção Pages.
+
+A música usa o player oficial do YouTube para "Can't Help Falling In Love", de Elvis Presley.
+Por isso, a Vitória precisará tocar no player para iniciar a reprodução; navegadores normalmente bloqueiam autoplay com som.
+
+A animação é propositalmente discreta: estrelas piscando devagar, brilho suave no lago e movimento sutil na imagem.
